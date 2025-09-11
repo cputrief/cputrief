@@ -1,8 +1,14 @@
-# 👋 Hi, I'm CutPutriEfrina!
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=6D94C5"/>
+<div align="center">
+  
+  <samp>
+    <h1>👋 Hi, I'm CutPutriEfrina!</h1>
+  </samp>
+</div>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=36&duration=2500&pause=800&color=F70000&center=true&vCenter=true&width=440&lines=Hi%2C+I'm+cputrief!;Welcome+to+my+profile" alt="Hi, I'm cputrief! Animated" />
-</p>
+<div align="center" width="100%">
+  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=6D94C5&width=900&size=22&center=true&lines=I+am+from+Indonesia;I'm+a+student+of+Application+Software+Enggineering;I'm+also+a+Designer;Be+welcome!" alt="Typing SVG"/>
+</div>
 
 <p align="center">
   <b>Web Developer | PHP & JS Enthusiast | Always Learning 🚀</b>
@@ -23,12 +29,13 @@
 ---
 
 ### 📊 My GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=cputrief&show_icons=true&theme=radical" alt="GitHub Stats" height="170">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cputrief&layout=compact&theme=radical" alt="Top Languages" height="170">
-</p>
-
+<div align="center">
+  <img height=180 align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api/?username=cputrief&show_icons=true&count_private=true&rank_icon=github&theme=omni&font=Iosevka"/>
+  <img height=180 align="center" alt="Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cputrief&layout=compact&font=Iosevka&langs_count=16&theme=omni"/>
+  <br>
+  <br>
+  <img align="center" alt="Top Language" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cputrief&theme=omni"/>
+</div>
 ---
 
 ### 🛠️ Tech Stack
@@ -67,3 +74,8 @@ Bisakah kamu menebaknya? Klik untuk reveal jawabannya!
 <p align="center">
   <i>Thanks for visiting! Let's connect and grow together 🚀</i>
 </p>
+
+---
+<div align="center">
+  <p align="center"><img align="center" src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2cputrief&s=30&c=6D94C5&bg=00000000&no=2&ff=digi&tb=Profile+Visits%3A++&ta=" /></p> 
+</div>
