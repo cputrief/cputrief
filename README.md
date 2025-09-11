@@ -36,6 +36,14 @@
   <br>
   <img align="center" alt="Top Language" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cputrief&theme=omni"/>
 </div>
+
+<div align="center">
+  <img height=180 align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api/?username=cputrief&show_icons=true&count_private=true&rank_icon=github&theme=omni&font=Iosevka&title_color=6D94C5&icon_color=6D94C5&text_color=6D94C5"/>
+  <img height=180 align="center" alt="Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cputrief&layout=compact&font=Iosevka&langs_count=16&theme=omni&title_color=6D94C5&text_color=6D94C5"/>
+  <br>
+  <br>
+  
+</div>
 ---
 
 ### 🛠️ Tech Stack
